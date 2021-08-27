@@ -1,0 +1,424 @@
+body{
+    background-color:white;
+}
+
+.topHeading{
+    font-family: cursive;
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    border-radius: 0 0 50% 70%;
+    background: linear-gradient(45deg, red, purple);
+    top:40%;
+    
+}
+.topHeading2{
+    font-family: cursive;
+    text-align: center;
+    font-size: 40px;
+    color:black;
+    margin-top:10px;
+    border-radius: 0 0 50% 70%;
+    background: linear-gradient(45deg, red, purple);
+    top:40%;
+}
+.topHeading3{
+    font-family: cursive;
+    text-align: center;
+    font-size: 30px;
+    height: 80px;
+    color:black;
+    margin-top:10px;
+    border-radius: 0 0 50% 70%;
+    background: linear-gradient(45deg, red, purple);
+    top:20%;
+}
+.introduction{
+    font-size: 35px;
+    font-weight: bold;
+    font-family:serif;
+    background-color: black;
+    margin-left: 25%;
+}
+.items{
+    background-color: black;
+    color:white;
+    font-size: 50px;
+    width: 1800px;
+    margin-left: 40px;
+    border-radius: 30px;
+}
+.items a {
+    margin-left: 340px;
+}
+.items2{
+    margin-top: 50px;
+    background-color: black;
+    color:white;
+    font-size: 50px;
+    width: 1800px;
+    margin-left: 40px;
+    border-radius: 30px;
+}
+.items2 a{
+    margin-left: 340px;
+}
+.dogVideo{
+    margin-top: 50px;
+    margin-left: 600px;
+    
+}
+.dogIntroduction{
+    
+        border-radius:15px 50px 30px 5px;
+        padding:10px;
+        width:950px;
+        height:480px;
+        border: thick solid blue;
+        margin-top: 20px;
+        font-size:60px;
+        margin-left: 480px;
+        background-color: tomato;
+        margin-top: 10px;
+        float: left;
+}
+.eIntroduction{
+    
+    border-radius:15px 50px 30px 5px;
+    padding:10px;
+    width:1050px;
+    height:470px;
+    border: thick solid blue;
+    margin-top: 20px;
+    font-size:40px;
+    text-align: center;
+    margin-left: 480px;
+    background-color: tomato;
+    margin-top: 10px;
+    float: left;
+}
+.dogIntroduction h2{
+    text-align: center;
+    margin-top: 20px;
+}
+.dogIntroduction p{
+    display: center;
+    margin-left: 350px;
+    font-size:40px;
+}
+.dogOrigamiStep1{
+    background-color:whitesmoke;
+    border: whitesmoke;
+    margin-top: 550px;
+    margin-left: 380px;
+    width: 1200px;
+    height: 600px;
+    display: flex;
+}
+.dogOrigamiStep2{
+    background-color:whitesmoke;
+    border: whitesmoke;
+    margin-top: 100px;
+    margin-left: 380px;
+    width: 1200px;
+    height: 600px;
+    display: flex;
+}
+.dogOrigamiStep2 img{
+    width: 400px;
+    height:400px;
+    margin-left: 70px;
+    box-shadow:20px 20px gray;
+    margin-top:70px
+}
+.dogOrigamiStep3 img{
+    width: 400px;
+    height:400px;
+    margin-left: 70px;
+    box-shadow:20px 20px gray;
+    margin-top:70px
+}
+.dogOrigamiStep4 img{
+    width: 400px;
+    height:400px;
+    margin-left: 70px;
+    box-shadow:20px 20px gray;
+    margin-top:70px
+}
+.dogOrigamiStep5 img{
+    width: 400px;
+    height:400px;
+    margin-left: 70px;
+    box-shadow:20px 20px gray;
+    margin-top:70px
+}
+.dogOrigamiStep6 img{
+    width: 400px;
+    height:400px;
+    margin-left: 70px;
+    box-shadow:20px 20px gray;
+    margin-top:70px
+}
+.dogOrigamiStep7 img{
+    width: 400px;
+    height:400px;
+    margin-left: 70px;
+    box-shadow:20px 20px gray;
+    margin-top:70px
+}
+.dogOrigamiStep8 img{
+    width: 400px;
+    height:400px;
+    margin-left: 70px;
+    box-shadow:20px 20px gray;
+    margin-top:70px
+}
+.dogOrigamiStep9 img{
+    width: 400px;
+    height:400px;
+    margin-left: 70px;
+    box-shadow:20px 20px gray;
+    margin-top:70px
+}
+.dogOrigamiStep10 img{
+    width: 400px;
+    height:400px;
+    margin-left: 70px;
+    box-shadow:20px 20px gray;
+    margin-top:70px
+}
+.dogOrigamiStep3{
+    background-color:whitesmoke;
+    border: whitesmoke;
+    margin-top: 100px;
+    margin-left: 380px;
+    width: 1200px;
+    height: 600px;
+    display: flex;
+}
+.dogOrigamiStep4{
+    background-color:whitesmoke;
+    border: whitesmoke;
+    margin-top: 100px;
+    margin-left: 380px;
+    width: 1200px;
+    height: 600px;
+    display: flex;
+}
+.dogOrigamiStep5{
+    background-color:whitesmoke;
+    border: whitesmoke;
+    margin-top: 100px;
+    margin-left: 380px;
+    width: 1200px;
+    height: 600px;
+    display: flex;
+}
+.dogOrigamiStep6{
+    background-color:whitesmoke;
+    border: whitesmoke;
+    margin-top: 100px;
+    margin-left: 380px;
+    width: 1200px;
+    height: 600px;
+    display: flex;
+}
+.dogOrigamiStep7{
+    background-color:whitesmoke;
+    border: whitesmoke;
+    margin-top: 100px;
+    margin-left: 380px;
+    width: 1200px;
+    height: 600px;
+    display: flex;
+}
+.dogOrigamiStep8{
+    background-color:whitesmoke;
+    border: whitesmoke;
+    margin-top: 100px;
+    margin-left: 380px;
+    width: 1200px;
+    height: 600px;
+    display: flex;
+}
+
+.dogOrigamiStep1 img{
+    width: 400px;
+    height:400px;
+    margin-left: 70px;
+    box-shadow:20px 20px gray;
+    margin-top:70px
+}
+
+.pTag{
+    display:inline;
+    
+    text-align: center;
+    
+}
+.p1{
+    margin-left: 100px;
+    margin-top: 50px;
+    text-align: center;
+    border:thick solid black;
+}
+.p2{
+    margin-top: 20px;
+    width:600px;
+    margin-left: 100px;
+    font-size: 40px;
+    border:thick solid black;
+    
+}
+.CenterImage{
+    width: 1800px;
+    height: 550px;
+    margin-left: 70px;
+    margin-top: 30px;
+    background: blue;
+    background-image: url("mainImage.jpg");
+    /*background-image: url("mainImage.jpg");*/
+}
+.centerImage p{
+    padding-left: 500px;
+    font-size: 80px;
+    font-size:80px;
+    padding-top: 200px;
+
+}
+.description{
+    background: #00c3ff; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #00c3ff, #ffff1c); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #00c3ff, #ffff1c);
+    font-size: 40px;
+    text-align: center;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    
+}
+.list1{
+    background-color: #f39f86;
+    background-image: linear-gradient(315deg, #f39f86 0%, #f9d976 74%);
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    width: 800px;
+    font-size: 40px;
+    height: 100px;
+    position: relative;
+    float:left;
+    font-size: 43px;
+    border-radius: 40px;
+    margin-left: 30px;
+    float: left;
+}
+.list2{
+    background-color: #f9484a;
+    background-image: linear-gradient(315deg, #f9484a 0%, #fbd72b 74%);
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    margin-left: 160px;
+    width: 800px;
+    height: 100px;
+    text-align: center;
+    border-radius: 40px;
+    float:left;
+    font-size: 43px;
+    position: relative;
+
+}
+.list3{
+    background-color: #f8ef42;
+    background-image: linear-gradient(315deg, #f8ef42 0%, #0fd64f 74%);
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    width: 800px;
+    height: 100px;
+    font-size: 40px;
+    border-radius: 40px;
+    position: relative;
+    margin-left: 30px;
+    float: left;
+
+}
+.list4{
+    background-color: #f39f86;
+    background-image: linear-gradient(315deg, #f39f86 0%, #f9d976 74%);
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    margin-left: 160px;
+    width: 800px;
+    float:left;
+    height: 100px;
+    font-size: 40px;
+    border-radius: 40px;
+    float:left;
+    font-size: 43px;
+    position: relative;
+}
+
+.list5{
+    background-color: #f8ef42;
+    background-image: linear-gradient(315deg, #f8ef42 0%, #0fd64f 74%);
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    width: 800px;
+    height: 100px;
+    font-size: 40px;
+    border-radius: 40px;
+    position: relative;
+    margin-left: 30px;
+    float: left;
+}
+.list6{
+    background-color: #f39f86;
+    background-image: linear-gradient(315deg, #f39f86 0%, #f9d976 74%);
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    margin-left: 160px;
+    width: 800px;
+    float:left;
+    height: 100px;
+    font-size: 40px;
+    border-radius: 40px;
+    float:left;
+    font-size: 43px;
+    position: relative;
+}
+
+.secondHolder{
+    display: flex;
+    
+}
+
+.ending{
+    background-color: blanchedalmond;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 110px;
+    
+    background: #F1F2B5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #135058, #F1F2B5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #135058, #F1F2B5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    
+}
+
+
+.firstHolder{
+    display: flex;
+    
+}
+.thirdHolder{
+    display: flex;
+}
+
+.fourthHolder{
+    display: flex;
+}
